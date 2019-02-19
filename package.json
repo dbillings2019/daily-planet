@@ -1,0 +1,24 @@
+{
+  "name": "daily-planet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbillings2019/daily-planet.git"
+  },
+  "author": "Don'Damien Billings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbillings2019/daily-planet/issues"
+  },
+  "homepage": "https://github.com/dbillings2019/daily-planet#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0"
+  }
+}
